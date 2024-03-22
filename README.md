@@ -17,3 +17,8 @@ Template has been successfully created.
 ```bash
 nix run github:thenbe/mint -- $TEMPLATE $DIRECTORY
 ```
+
+## Related projects
+
+- [the-nix-way/dev-templates](https://github.com/the-nix-way/dev-templates/blob/main/node/flake.nix)
+- [MordragT/nix-templates](https://github.com/MordragT/nix-templates)
